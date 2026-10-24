@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/streamix-core",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/streamix-core",
+  "usageRepository": "https://github.com/x12i-sdk/streamix-core",
+  "sourceRepository": "https://github.com/x12i/streamix",
+  "sourceCommit": "b4ab8abd8ac781d2b934a7a864276c5c5509fa6d",
+  "sourcePackageDirectory": "packages/core",
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:51:05.814295+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "db3d4517a7d1eab7cbc92bc961a068c6e6f5ad6d9d99b4b158f22d698e030465",
+    "manifestSha256": "a3d9b5488a109649bcd43c57630cf815772c1343a6f01d001b1cd9e4baae9b41"
+  }
+}
