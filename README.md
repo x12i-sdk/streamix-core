@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Activity, scope, and configuration model for Streamix.
-- A Streamix integration needs to reuse the capabilities of @x12i/streamix-core inside a larger application.
+- Validate activity and scope data shared by a producer and its viewer.
+- Define Streamix configuration without depending on the service's persistence implementation.
 
 ## Links
 
